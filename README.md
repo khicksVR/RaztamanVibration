@@ -1,2 +1,1 @@
-# RaztamanVibration
- Camera Kit Record Setup
+# camera_kit_demo
